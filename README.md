@@ -14,4 +14,6 @@
 
 3. Aplicativos
    chrome://downloads/#:~:text=https%3A//dl.google.com
+   https://objects.githubusercontent.com
+   flatpak install flathub com.rtosta.zapzap -y
    
