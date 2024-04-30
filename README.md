@@ -11,12 +11,11 @@
   https://extensions.gnome.org/extension/4422/gnome-clipboard/
   https://extensions.gnome.org/extension/5278/pano/
   https://extensions.gnome.org/extension/841/freon/
+  https://extensions.gnome.org/extension/3193/blur-my-shell/
 
-3. Aplicativos
+4. Aplicativos
    chrome://downloads/#:~:text=https%3A//dl.google.com
    https://objects.githubusercontent.com
    flatpak install flathub com.rtosta.zapzap -y
    https://sempreupdate.com.br/como-instalar-o-emote-um-seletor-de-emoji-no-ubuntu-linux-mint-fedora-debian/?expand_article=1
-
-   nrepoboreubeor
-   
+      
